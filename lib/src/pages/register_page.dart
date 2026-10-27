@@ -44,7 +44,7 @@ class RegisterPage extends StatelessWidget {
                   route: 'login',
                   title: '¿Ya tienes cuenta?', subTitle: 'Ingresa con tu cuenta ahora',
                 ),
-                Text('Términos y condiciones de unos', style: TextStyle(fontWeight: FontWeight.w200))
+                Text('Términos y condiciones de uso', style: TextStyle(fontWeight: FontWeight.w200))
               ],
             ),
           ),

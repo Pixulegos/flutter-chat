@@ -44,7 +44,7 @@ class LoginPage extends StatelessWidget {
                   route: 'register',
                   title: '¿No tienes cuenta?', subTitle: 'Crea una ahora',
                 ),
-                Text('Términos y condiciones de unos', style: TextStyle(fontWeight: FontWeight.w200))
+                Text('Términos y condiciones de uso', style: TextStyle(fontWeight: FontWeight.w200))
               ],
             ),
           ),
